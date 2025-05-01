@@ -1,0 +1,21 @@
+"Enable Health" = true
+"Enable Lives" = true
+
+[Health]
+	#Players starting Health
+	#Range: > 1
+	"Starting Health" = 20
+	#Half hearts lost when the player dies. Negative numbers can be used to give health to players.
+	#Range: > -2147483648
+	"Half hearts penalty on death" = 2
+
+[Lives]
+	#How many lives players spawns with
+	#Range: > 0
+	"Starting Lives" = 5
+	#Max lives you can gain. 0 for infinite.
+	#Range: > 0
+	"Max Lives" = 0
+	#Announce players' life lost to chat.
+	"Announce Life Lost to Chat" = true
+
