@@ -84,3 +84,67 @@
 [09May2025 20:14:15.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo25445 joined the game
 [09May2025 20:14:17.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Arkuzz_ lost a life. Has no lives remaining. F in chat.
 [09May2025 20:18:42.408] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-5, y=60, z=-7}
+[09May2025 20:23:03.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Arkuzz_ has made the advancement [Best Friends Forever]
+[09May2025 20:24:56.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Eduardo25445> q jue
+[09May2025 20:25:10.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <_Arkuzz_> aun no aparecen semillas >:v
+[09May2025 20:25:42.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Eduardo25445> :v
+[09May2025 20:25:46.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <_Arkuzz_> xd
+[09May2025 20:26:30.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo25445 was slain by Goat Man
+[09May2025 20:26:31.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo25445 lost a life. Has no lives remaining. F in chat.
+[09May2025 20:27:14.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo25445 was shot by Stray
+[09May2025 20:27:16.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo25445 lost a life. Has no lives remaining. F in chat.
+[09May2025 20:28:31.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Arkuzz_ was shot by Stray
+[09May2025 20:28:32.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Arkuzz_ lost a life. Has no lives remaining. F in chat.
+[09May2025 20:28:38.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Arkuzz_ was shot by Stray
+[09May2025 20:28:40.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Arkuzz_ lost a life. Has no lives remaining. F in chat.
+[09May2025 20:28:46.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Arkuzz_ was shot by Stray
+[09May2025 20:28:47.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Arkuzz_ lost a life. Has no lives remaining. F in chat.
+[09May2025 20:28:52.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo25445 has made the advancement [Isn't It Iron Pick]
+[09May2025 20:28:54.408] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _Arkuzz_ was kicked for floating too long!
+[09May2025 20:28:54.458] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _Arkuzz_ lost connection: Flying is not enabled on this server
+[09May2025 20:28:54.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Arkuzz_ left the game
+[09May2025 20:28:56.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo25445 was shot by Stray
+[09May2025 20:28:57.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo25445 lost a life. Has no lives remaining. F in chat.
+[09May2025 20:29:00.046] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player _Arkuzz_ is 70b5fa32-4745-40dd-b309-1a98b725198b
+[09May2025 20:29:02.223] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@9fa5a06
+[09May2025 20:29:02.234] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _Arkuzz_[/127.140.157.102:60153] logged in with entity id 599 at (2.5, -127.80346835839636, 4.5)
+[09May2025 20:29:02.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Arkuzz_ joined the game
+[09May2025 20:29:04.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Arkuzz_ fell out of the world
+[09May2025 20:29:06.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Arkuzz_ lost a life. Has no lives remaining. F in chat.
+[09May2025 20:29:06.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Arkuzz_ fell out of the world
+[09May2025 20:29:07.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Arkuzz_ lost a life. Has no lives remaining. F in chat.
+[09May2025 20:29:07.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Arkuzz_ fell out of the world
+[09May2025 20:29:09.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Arkuzz_ lost a life. Has no lives remaining. F in chat.
+[09May2025 20:29:09.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Arkuzz_ fell out of the world
+[09May2025 20:29:11.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Arkuzz_ lost a life. Has no lives remaining. F in chat.
+[09May2025 20:29:11.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Arkuzz_ fell out of the world
+[09May2025 20:29:15.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Arkuzz_ lost a life. Has no lives remaining. F in chat.
+[09May2025 20:29:15.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Arkuzz_ fell out of the world
+[09May2025 20:29:17.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Arkuzz_ lost a life. Has no lives remaining. F in chat.
+[09May2025 20:29:17.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Arkuzz_ fell out of the world
+[09May2025 20:29:18.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Arkuzz_ lost a life. Has no lives remaining. F in chat.
+[09May2025 20:29:18.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Arkuzz_ fell out of the world
+[09May2025 20:29:20.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Arkuzz_ lost a life. Has no lives remaining. F in chat.
+[09May2025 20:29:20.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Arkuzz_ fell out of the world
+[09May2025 20:29:21.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Arkuzz_ lost a life. Has no lives remaining. F in chat.
+[09May2025 20:29:21.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Arkuzz_ fell out of the world
+[09May2025 20:29:22.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Arkuzz_ lost a life. Has no lives remaining. F in chat.
+[09May2025 20:29:22.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Arkuzz_ fell out of the world
+[09May2025 20:29:23.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Arkuzz_ lost a life. Has no lives remaining. F in chat.
+[09May2025 20:29:23.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Arkuzz_ fell out of the world
+[09May2025 20:29:24.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Arkuzz_ lost a life. Has no lives remaining. F in chat.
+[09May2025 20:29:24.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Arkuzz_ fell out of the world
+[09May2025 20:29:26.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Arkuzz_ lost a life. Has no lives remaining. F in chat.
+[09May2025 20:29:26.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Arkuzz_ fell out of the world
+[09May2025 20:29:27.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Arkuzz_ lost a life. Has no lives remaining. F in chat.
+[09May2025 20:29:27.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Arkuzz_ fell out of the world
+[09May2025 20:29:29.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Arkuzz_ lost a life. Has no lives remaining. F in chat.
+[09May2025 20:29:29.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Arkuzz_ fell out of the world
+[09May2025 20:29:31.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Arkuzz_ lost a life. Has no lives remaining. F in chat.
+[09May2025 20:29:31.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Arkuzz_ fell out of the world
+[09May2025 20:29:32.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Arkuzz_ lost a life. Has no lives remaining. F in chat.
+[09May2025 20:29:33.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Arkuzz_ fell out of the world
+[09May2025 20:29:35.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Arkuzz_ lost a life. Has no lives remaining. F in chat.
+[09May2025 20:29:35.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Arkuzz_ fell out of the world
+[09May2025 20:29:37.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Arkuzz_ lost a life. Has no lives remaining. F in chat.
+[09May2025 20:29:37.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Arkuzz_ fell out of the world

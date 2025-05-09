@@ -197,9 +197,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-05-09 20:20:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-05-01 23:35:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2025-05-09 20:25:32 +0000"
     },
     "done": true
   },
@@ -293,6 +305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-05-09 20:18:23 +0000"
+    },
+    "done": true
+  },
   "endofherobrine:story/root": {
     "criteria": {
       "requirement": "2025-05-01 23:35:56 +0000"
@@ -332,6 +350,12 @@
   "minecraft:recipes/building_blocks/pink_terracotta": {
     "criteria": {
       "has_terracotta": "2025-05-09 20:12:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-05-09 20:28:00 +0000"
     },
     "done": true
   },
@@ -694,6 +718,7 @@
       "minecraft:spider": "2025-05-02 00:15:31 +0000",
       "minecraft:creeper": "2025-05-02 00:07:28 +0000",
       "minecraft:zombified_piglin": "2025-05-01 23:47:57 +0000",
+      "minecraft:stray": "2025-05-09 20:27:15 +0000",
       "minecraft:zombie": "2025-05-02 00:13:49 +0000"
     },
     "done": false
@@ -800,6 +825,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-05-09 20:18:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2025-05-02 00:20:25 +0000"
@@ -821,6 +852,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-01 23:41:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-09 20:23:03 +0000"
     },
     "done": true
   },
@@ -899,6 +936,12 @@
   "minecraft:recipes/building_blocks/red_terracotta": {
     "criteria": {
       "has_terracotta": "2025-05-09 20:12:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2025-05-09 20:15:59 +0000"
     },
     "done": true
   },
@@ -1358,6 +1401,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-05-09 20:15:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-05-01 23:59:28 +0000"
@@ -1373,6 +1422,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-05-02 00:14:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-05-09 20:18:23 +0000"
     },
     "done": true
   },
@@ -1439,6 +1494,12 @@
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-05-01 23:54:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-05-09 20:20:28 +0000"
     },
     "done": true
   },
