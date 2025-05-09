@@ -285,3 +285,68 @@
 [09May2025 20:39:29.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Eduardo25445> fino xd
 [09May2025 20:39:33.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Eduardo25445> por si acaso
 [09May2025 20:39:34.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <_Arkuzz_> queda
+[09May2025 20:41:26.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Eduardo25445> oe
+[09May2025 20:41:31.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <_Arkuzz_> q
+[09May2025 20:41:32.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Eduardo25445> quieres jugar left con bryan
+[09May2025 20:41:38.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <_Arkuzz_> aa ya ps
+[09May2025 20:42:01.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Eduardo25445> perro mojado
+[09May2025 20:42:57.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <_Arkuzz_> sovrevivi
+[09May2025 20:42:57.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <_Arkuzz_> xd
+[09May2025 20:43:27.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Eduardo25445> hay un cuco
+[09May2025 20:43:38.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <_Arkuzz_> estoy a medio cora
+[09May2025 20:43:49.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Eduardo25445> :v
+[09May2025 20:43:55.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Eduardo25445> pero puedes recuperar
+[09May2025 20:44:16.398] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _Arkuzz_ moved too quickly! 9.657564329797488,1.0013359791121488,2.609627888870601
+[09May2025 20:44:16.402] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5398ms or 107 ticks behind
+[09May2025 20:44:20.956] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo25445 was kicked for floating too long!
+[09May2025 20:44:21.005] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo25445 lost connection: Flying is not enabled on this server
+[09May2025 20:44:21.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo25445 left the game
+[09May2025 20:44:25.347] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Eduardo25445 is 515114a7-eaa0-4092-b56a-d992eb168e7d
+[09May2025 20:44:27.017] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@f2b186c
+[09May2025 20:44:27.022] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eduardo25445[/127.219.144.116:60469] logged in with entity id 2426 at (5.639770459232131, -107.65327735866384, -7.047815867747936)
+[09May2025 20:44:27.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo25445 joined the game
+[09May2025 20:44:30.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo25445 fell out of the world
+[09May2025 20:44:31.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo25445 was kicked for floating too long!
+[09May2025 20:44:31.708] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo25445 lost connection: Flying is not enabled on this server
+[09May2025 20:44:31.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo25445 left the game
+[09May2025 20:44:37.444] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Eduardo25445 is 515114a7-eaa0-4092-b56a-d992eb168e7d
+[09May2025 20:44:39.012] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@67744c5d
+[09May2025 20:44:39.017] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eduardo25445[/127.219.144.116:54573] logged in with entity id 2430 at (5.639770459232131, -313.9465645860009, -7.047815867747936)
+[09May2025 20:44:39.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo25445 joined the game
+[09May2025 20:44:43.707] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo25445 was kicked for floating too long!
+[09May2025 20:44:43.756] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo25445 lost connection: Flying is not enabled on this server
+[09May2025 20:44:43.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo25445 left the game
+[09May2025 20:44:47.258] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Eduardo25445 is 515114a7-eaa0-4092-b56a-d992eb168e7d
+[09May2025 20:44:48.862] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5324ed33
+[09May2025 20:44:48.874] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eduardo25445[/127.219.144.116:43721] logged in with entity id 2434 at (5.639770459232131, -325.9481604073938, -7.047815867747936)
+[09May2025 20:44:48.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo25445 joined the game
+[09May2025 20:44:52.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo25445 lost a life. Has no lives remaining. F in chat.
+[09May2025 20:44:54.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo25445 fell out of the world
+[09May2025 20:44:56.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo25445 lost a life. Has no lives remaining. F in chat.
+[09May2025 20:44:58.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo25445 fell out of the world
+[09May2025 20:45:00.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Arkuzz_ was slain by Possessed Silverfish
+[09May2025 20:45:02.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Arkuzz_ lost a life. Has no lives remaining. F in chat.
+[09May2025 20:45:52.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[09May2025 20:45:52.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semiharcord @a add 7<--[HERE]
+[09May2025 20:45:57.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo25445 lost a life. Has no lives remaining. F in chat.
+[09May2025 20:45:59.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo25445 fell out of the world
+[09May2025 20:46:01.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo25445 lost a life. Has no lives remaining. F in chat.
+[09May2025 20:46:28.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Eduardo25445> entra ds
+[09May2025 20:46:29.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Eduardo25445> xd
+[09May2025 20:46:33.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <_Arkuzz_> xd ya
+[09May2025 20:46:39.256] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo25445 lost connection: Disconnected
+[09May2025 20:46:39.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo25445 left the game
+[09May2025 20:46:44.905] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _Arkuzz_ lost connection: Disconnected
+[09May2025 20:46:44.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Arkuzz_ left the game
+[09May2025 20:46:47.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[09May2025 20:46:47.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[09May2025 20:46:47.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[09May2025 20:46:47.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[OneBlock Reborn]'/minecraft:overworld
+[09May2025 20:46:47.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[OneBlock Reborn]'/minecraft:the_end
+[09May2025 20:46:47.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[OneBlock Reborn]'/man:halucination
+[09May2025 20:46:47.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[OneBlock Reborn]'/minecraft:the_nether
+[09May2025 20:46:47.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09May2025 20:46:47.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09May2025 20:46:47.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (halucination): All chunks are saved
+[09May2025 20:46:47.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09May2025 20:46:47.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

@@ -713,6 +713,12 @@
     },
     "done": true
   },
+  "endofherobrine:story/exorcist": {
+    "criteria": {
+      "endofherobrine:silverfish": "2025-05-09 20:45:49 +0000"
+    },
+    "done": false
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:spider": "2025-05-02 00:15:31 +0000",
